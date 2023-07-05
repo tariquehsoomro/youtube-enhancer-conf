@@ -1,5 +1,5 @@
 {
-    "version": "2.0.117.10",
+    "version": "2.0.119",
     "settings": {
         "blur": 0,
         "brightness": 100,
@@ -44,7 +44,7 @@
         "controlspeedmousebutton": false,
         "controlvolume": true,
         "controlvolumemousebutton": true,
-        "convertshorts": false,
+        "convertshorts": true,
         "customcolors": {
             "--dimmer-text": "#7ba0a3",
             "--hover-background": "#013c3b",
